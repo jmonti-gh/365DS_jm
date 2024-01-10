@@ -4,7 +4,7 @@
 ## 3) Statistics
 ## 4) SQL
 ## 5) Introduction to Python
-## 6) Data Preprocessing with NumPy
-## 7) Data Cleaning and Preprocessing with Pandas
-## 8) The Complete Data Visualization Course with Python, R, Excel, Tableau, and PowerBI
+## 6) The Complete Data Visualization Course with Excel, Tableau, Python and R.
+## 7) Data Preprocessing with NumPy
+## 8) Data Cleaning and Preprocessing with Pandas
 
