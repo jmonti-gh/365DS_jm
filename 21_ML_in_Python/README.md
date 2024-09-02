@@ -1,3 +1,5 @@
-# Tit 1
+---
+# Machine Learning in Python
+---
 
-## Tit 2
+## 1. Linear Regression
